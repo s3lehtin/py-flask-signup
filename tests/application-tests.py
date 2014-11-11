@@ -43,7 +43,7 @@ class AppTestCase(unittest.TestCase):
         self.assertTrue(1)
 
     def test_get_user(self):
-        """ Test that we can get a user context """
+        """ TesT that we can get a user context """
         self.assertTrue(1)
 
     def test_login(self):
